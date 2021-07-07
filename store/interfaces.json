@@ -1,0 +1,8 @@
+{
+  "my-account-page.my-plugin-page": {
+    "component": "MyAppPage"
+  },
+  "my-account-link.my-plugin-link": {
+    "component": "MyAppLink"
+  }
+}
